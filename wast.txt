@@ -1,0 +1,1 @@
+This is wast.txt file
